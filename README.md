@@ -22,6 +22,11 @@ This repository contains Python solutions for various LeetCode problems. Below i
    - Description: Find the longest common prefix string among an array of strings.
    - File: [14. Longest Common Prefix](./14.%20Longest%20Common%20Prefix/README.md)
 
+5. **Add Two Numbers**
+   - [Link to the problem](https://leetcode.com/problems/add-two-numbers/)
+   - Description: Two linked lists represent non-negative integers. Return their sum as a linked list.
+   - File: [2. Add Two Numbers](./2.%20Add%20Two%20Numbers/README.md)
+
 5. **Delete Node in a Linked List**
    - [Link to the problem](https://leetcode.com/problems/delete-node-in-a-linked-list/)
    - Description: Delete a node in a linked list given only access to that node.
