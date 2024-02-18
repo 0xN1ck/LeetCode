@@ -27,27 +27,27 @@ This repository contains Python solutions for various LeetCode problems. Below i
    - Description: Two linked lists represent non-negative integers. Return their sum as a linked list.
    - File: [2. Add Two Numbers](./2.%20Add%20Two%20Numbers/README.md)
 
-5. **Delete Node in a Linked List**
+6. **Delete Node in a Linked List**
    - [Link to the problem](https://leetcode.com/problems/delete-node-in-a-linked-list/)
    - Description: Delete a node in a linked list given only access to that node.
    - File: [237. Delete Node in a Linked List](./237.%20Delete%20Node%20in%20a%20Linked%20List/README.md)
 
-6. **Permutations**
+7. **Permutations**
    - [Link to the problem](https://leetcode.com/problems/permutations/)
    - Description: Return all possible permutations of a collection of distinct integers.
    - File: [46. Permutations](./46.%20Permutations/README.md)
 
-7. **Longest Palindromic Substring**
+8. **Longest Palindromic Substring**
    - [Link to the problem](https://leetcode.com/problems/longest-palindromic-substring/)
    - Description: Find the longest palindromic substring in a string.
    - File: [5. Longest Palindromic Substring](./5.%20Longest%20Palindromic%20Substring/README.md)
 
-8. **Fibonacci Number**
+9. **Fibonacci Number**
    - [Link to the problem](https://leetcode.com/problems/fibonacci-number/)
    - Description: Calculate the Fibonacci number for a given index.
    - File: [509. Fibonacci Number](./509.%20Fibonacci%20Number/README.md)
 
-9. **Palindrome Number**
+10. **Palindrome Number**
    - [Link to the problem](https://leetcode.com/problems/palindrome-number/)
    - Description: Determine whether an integer is a palindrome.
    - File: [9. Palindrome Number](./9.%20Palindrome%20Number/README.md)
