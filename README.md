@@ -48,6 +48,11 @@ This repository contains Python solutions for various LeetCode problems. Below i
    - File: [509. Fibonacci Number](./509.%20Fibonacci%20Number/README.md)
 
 10. **Palindrome Number**
-   - [Link to the problem](https://leetcode.com/problems/palindrome-number/)
-   - Description: Determine whether an integer is a palindrome.
-   - File: [9. Palindrome Number](./9.%20Palindrome%20Number/README.md)
+    - [Link to the problem](https://leetcode.com/problems/palindrome-number/)
+    - Description: Determine whether an integer is a palindrome.
+    - File: [9. Palindrome Number](./9.%20Palindrome%20Number/README.md)
+
+11. **Remove Duplicates from Sorted Array II**
+    - [Link to the problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Given a sorted array nums, remove the duplicates in-place such that duplicates appeared at most twice and return the new length.
+    - File: [80. Remove Duplicates from Sorted Array II](./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
