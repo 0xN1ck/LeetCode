@@ -62,7 +62,7 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - Description: Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 in sorted order.
     - File: [88. Remove Duplicates from Sorted Array II](./88.%20Merge%20Sorted%20Array)
 
-13. **Merge Sorted Array**
+13. **Rotate Array**
     - [Link to the problem](https://leetcode.com/problems/rotate-array/submissions/1183914802/?envType=study-plan-v2&envId=top-interview-150)
     - Description: Given an array `nums`, rotate the array to the right by `k` steps, where `k` is non-negative.
     - File: [189. Merge Sorted Array](./189.%20Rotate%20Array)
