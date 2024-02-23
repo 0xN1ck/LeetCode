@@ -1,7 +1,3 @@
-Конечно, вот обновленный файл `readme.md` с добавленным описанием задачи "Jump Game II" и его решением:
-
----
-
 # LeetCode Python Solutions
 
 This repository contains Python solutions for various LeetCode problems. Below is a brief summary of the solved problems:
