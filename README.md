@@ -1,3 +1,7 @@
+Конечно, вот обновленный файл `readme.md` с добавленным описанием задачи "Jump Game II" и его решением:
+
+---
+
 # LeetCode Python Solutions
 
 This repository contains Python solutions for various LeetCode problems. Below is a brief summary of the solved problems:
@@ -72,7 +76,7 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - Description: Given an array of non-negative integers `nums`, determine if you can reach the last index.
     - File: [55. Jump Game](./55.%20Jump%20Game/README.md)
 
-15. **Best Time to Buy and Sell Stock II**
-    - [Link to the problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)
-    - Description: Given an array `prices` representing the price of a stock on each day, find the maximum profit you can achieve by completing as many transactions as you like.
-    - File: [122. Best Time to Buy and Sell Stock II](./122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md)
+15. **Jump Game II**
+    - [Link to the problem](https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Given an array of non-negative integers `nums`, you are initially positioned at the first index of the array. Each element in the array represents your maximum jump length at that position. Your goal is to reach the last index in the minimum number of jumps.
+    - File: [45. Jump Game II](./45.%20Jump%20Game%20II/README.md)
