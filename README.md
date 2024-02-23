@@ -58,7 +58,11 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - File: [80. Remove Duplicates from Sorted Array II](./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
 
 12. **Merge Sorted Array**
-    - [Link to the problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
-    - Description: Given a sorted array nums, remove the duplicates in-place such that duplicates appeared at most twice and return the new length.
+    - [Link to the problem](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 in sorted order.
     - File: [88. Remove Duplicates from Sorted Array II](./88.%20Merge%20Sorted%20Array)
- 
+
+13. **Merge Sorted Array**
+    - [Link to the problem](https://leetcode.com/problems/rotate-array/submissions/1183914802/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Given an array `nums`, rotate the array to the right by `k` steps, where `k` is non-negative.
+    - File: [189. Merge Sorted Array](./189.%20Rotate%20Array)
