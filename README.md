@@ -81,3 +81,8 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - [Link to the problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)
     - Description: Given an array `prices` representing the price of a stock on each day, find the maximum profit you can achieve by completing as many transactions as you like.
     - File: [122. Best Time to Buy and Sell Stock II](./122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md)
+
+17. **Insert Delete GetRandom O(1)**
+    - [Link to the problem](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Design a data structure that supports all following operations in average O(1) time: `insert(val)`, `remove(val)`, and `getRandom()`.
+    - File: [Insert Delete GetRandom O(1)](./380.%20Insert%20Delete%20GetRandom%20O(1))
