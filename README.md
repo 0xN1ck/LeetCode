@@ -86,3 +86,8 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - [Link to the problem](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)
     - Description: Design a data structure that supports all following operations in average O(1) time: `insert(val)`, `remove(val)`, and `getRandom()`.
     - File: [Insert Delete GetRandom O(1)](./380.%20Insert%20Delete%20GetRandom%20O(1))
+
+18. **Gas Station**
+    - [Link to the problem](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Given gas stations with gas amounts and travel costs, find the starting station index if you can travel the circuit once clockwise with an unlimited gas tank, else return -1.
+    - File: [134. Gas Station](./134.%20Gas%20Station/README.md)
