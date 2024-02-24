@@ -96,3 +96,8 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - [Link to the problem](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)
     - Description: Given an input string `s`, reverse the order of the words.
     - File: [151. Reverse Words in a String](./151.%20Reverse%20Words%20in%20a%20String/README.md)
+
+20. **Best Time to Buy and Sell Stock**
+    - [Link to the problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Given an array `prices`, find the maximum profit by buying and selling stocks once.
+    - File: [121. Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md)
