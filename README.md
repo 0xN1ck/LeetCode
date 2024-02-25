@@ -101,3 +101,8 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - [Link to the problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
     - Description: Given an array `prices`, find the maximum profit by buying and selling stocks once.
     - File: [121. Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md)
+
+21. **Candy**
+    - [Link to the problem](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Distribute candy to children based on their ratings.
+    - File: [135. Candy](./135.%20Candy/README.md)

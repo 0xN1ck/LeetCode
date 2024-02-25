@@ -3,36 +3,31 @@ from typing import List
 
 class Solution:
     def candy(self, ratings: List[int]) -> int:
-        last_give = 1
-        total_give = 0
-        for index, rating in enumerate(ratings):
-            if index == 0:
-                if rating <= ratings[index + 1]:
-                    total_give += last_give
-                else:
-                    total_give += last_give + 1
-                continue
+        last_give_r = 1
+        last_give_l = 1
+        r_arr = []
+        l_arr = []
+        r_arr.append(1)
+        l_arr.append(1)
+        rev_ratings = [i for i in ratings[::-1]]
 
-            if index == len(ratings) - 1:
-                if rating <= ratings[index - 1]:
-                    last_give = 1
-                    total_give += last_give
-                else:
-                    total_give += last_give + 1
-                break
-
-            if rating >= ratings[index - 1]:
-                last_give += 1
-                total_give += last_give
+        for i, (r, l) in enumerate(zip(ratings[1:], rev_ratings[1:]), start=1):
+            if r > ratings[i - 1]:
+                last_give_r += 1
+                r_arr.append(last_give_r)
             else:
-                last_give = 1
-                total_give += last_give
+                last_give_r = 1
+                r_arr.append(last_give_r)
 
-        return total_give
+            if l > rev_ratings[i - 1]:
+                last_give_l += 1
+                l_arr.append(last_give_l)
+            else:
+                last_give_l = 1
+                l_arr.append(last_give_l)
+
+        return sum(max(x, y) for x, y in zip(r_arr, l_arr[::-1]))
 
 
 if __name__ == "__main__":
-    # print(Solution().candy([1, 0, 2]))
-    # print(Solution().candy([1, 2, 2]))
     print(Solution().candy([29, 51, 87, 87, 72, 12]))
-    print((Solution().candy([1, 2, 87, 87, 87, 2, 1])))
