@@ -106,3 +106,8 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - [Link to the problem](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150)
     - Description: Distribute candy to children based on their ratings.
     - File: [135. Candy](./135.%20Candy/README.md)
+
+22. **ZigZag Conversion**
+    - [Link to the problem](https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150)
+    - Description: Convert the input string into a zigzag pattern and then read it row by row.
+    - File: [6. ZigZag Conversion](./6.%20Zigzag%20Conversion/README.md)
