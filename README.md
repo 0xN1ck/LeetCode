@@ -111,3 +111,8 @@ This repository contains Python solutions for various LeetCode problems. Below i
     - [Link to the problem](https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150)
     - Description: Convert the input string into a zigzag pattern and then read it row by row.
     - File: [6. ZigZag Conversion](./6.%20Zigzag%20Conversion/README.md)
+
+23. **Minimum Length of String After Deleting Similar Ends**
+    - [Link to the problem](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/?envType=daily-question&envId=2024-03-05)
+    - Description: Remove matching characters from both ends of a string s until no identical ends remain.
+    - File: [1750. Minimum Length of String After Deleting Similar Ends](./1750.%20Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/README.md)
